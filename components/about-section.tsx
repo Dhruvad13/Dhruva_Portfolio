@@ -13,7 +13,7 @@ if (typeof window !== "undefined") {
 
 const timelineData = [
   {
-    year: "2025 - Present",
+    year: "July 2025 - October 2025",
     title: "Developer Intern",
     company: "Toyota Kirloskar Motor Pvt. Ltd",
     description: "Contributing to full-stack web development using Python frameworks (Flask, FastAPI) to build scalable backend APIs and applications. Developing and integrating chatbot systems with real-time interactions using RESTful APIs and NLP.",
