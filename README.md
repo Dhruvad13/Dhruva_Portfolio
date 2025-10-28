@@ -128,7 +128,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-- Email: hello@johndoe.dev
+- Email: dhruvad13@gmailcom
 - LinkedIn: (https://www.linkedin.com/in/dhruva-d-7b778a242)
 - GitHub: (https://github.com/Dhruvad13)
 
