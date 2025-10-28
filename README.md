@@ -128,9 +128,9 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-- Email: dhruvad13@gmailcom
-- LinkedIn: (https://www.linkedin.com/in/dhruva-d-7b778a242)
-- GitHub: (https://github.com/Dhruvad13)
+- Email: dhruvad13@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhruva-d-7b778a242
+- GitHub: https://github.com/Dhruvad13
 
 ---
 
