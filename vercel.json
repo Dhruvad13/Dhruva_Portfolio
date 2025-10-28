@@ -57,5 +57,10 @@
       "source": "/sitemap.xml",
       "destination": "/api/sitemap"
     }
-  ]
+  ],
+  "functions": {
+    "api/**/*.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
 }
