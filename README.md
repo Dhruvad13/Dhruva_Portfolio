@@ -33,7 +33,7 @@ A fully advanced, responsive developer portfolio built with **Next.js 14**, **Ta
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/developer-portfolio.git
+   git clone (https://github.com/Dhruvad13/Dhruva_Portfolio.git)
    cd developer-portfolio
    ```
 
@@ -129,8 +129,8 @@ Contributions, issues, and feature requests are welcome!
 ## 📧 Contact
 
 - Email: hello@johndoe.dev
-- LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- LinkedIn: (https://www.linkedin.com/in/dhruva-d-7b778a242)
+- GitHub: (https://github.com/Dhruvad13)
 
 ---
 
